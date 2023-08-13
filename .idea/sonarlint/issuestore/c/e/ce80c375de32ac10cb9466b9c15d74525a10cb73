@@ -1,0 +1,20 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ëÇì³üÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê§ö
+L
+java:S1854"6Remove this useless assignment to local variable "c4".(Ó¤»Ñ
+Q
+java:S1854"6Remove this useless assignment to local variable "c3".(Üçèøÿÿÿÿ
+L
+java:S1854"6Remove this useless assignment to local variable "c2".(ßşéá
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Áß‡Ü
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ĞÛâï
+=
+java:S1481"'Remove this unused "c2" local variable.(ßşéá
+B
+java:S1481"'Remove this unused "c3" local variable.(Üçèøÿÿÿÿ
+=
+java:S1481"'Remove this unused "c4" local variable.(Ó¤»Ñ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ïø÷¿üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æ–İ€ÿÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(¶‡ø

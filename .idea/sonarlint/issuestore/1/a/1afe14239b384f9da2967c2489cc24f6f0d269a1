@@ -1,0 +1,21 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ëùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ãêçª
+L
+java:S1854"6Remove this useless assignment to local variable "rs".(« “
+K
+java:S1854"6Remove this useless assignment to local variable "a4".(—ÌÛ7
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(ÍˆëÄ
+<
+java:S1481"'Remove this unused "a4" local variable.(—ÌÛ7
+=
+java:S1481"'Remove this unused "rs" local variable.(« “
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¨ùâ©
+S	java:S106"9Replace this use of System.out or System.err by a logger.(„¡Ñ¿üÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(¸¨¬“şÿÿÿÿ
+T
+java:S2130&"9Use "Integer.parseInt" for this string-to-int conversion.(èí¥±üÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(¡§’Ä
+Y
+java:S2130+">Use "Double.parseDouble" for this string-to-double conversion.(õŸÓùÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(½ëñ¬ûÿÿÿÿ

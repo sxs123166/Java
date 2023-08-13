@@ -1,0 +1,34 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¾­šçüÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ù‡§
+R
+java:S1854"7Remove this useless assignment to local variable "ld3".(Ñã‡Êøÿÿÿÿ
+S
+java:S1854"=Remove this useless assignment to local variable "dayOfWeek".(ÿèƒÈ
+X
+java:S1854"=Remove this useless assignment to local variable "dayOfYear".(‘¶óæùÿÿÿÿ
+R
+java:S1854"7Remove this useless assignment to local variable "day".(ğ·­†ıÿÿÿÿ
+T
+java:S1854"9Remove this useless assignment to local variable "month".(­¨šúùÿÿÿÿ
+S
+java:S1854"8Remove this useless assignment to local variable "year".( úï¥øÿÿÿÿ
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(“Òš§
+D
+java:S1481")Remove this unused "year" local variable.( úï¥øÿÿÿÿ
+E
+java:S1481"*Remove this unused "month" local variable.(­¨šúùÿÿÿÿ
+C
+java:S1481"(Remove this unused "day" local variable.(ğ·­†ıÿÿÿÿ
+I
+java:S1481".Remove this unused "dayOfYear" local variable.(‘¶óæùÿÿÿÿ
+D
+java:S1481".Remove this unused "dayOfWeek" local variable.(ÿèƒÈ
+C
+java:S1481"(Remove this unused "ld3" local variable.(Ñã‡Êøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¤¿äşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(“Òš§
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‚¿•†ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÔıÓşúÿÿÿÿ
+M	java:S106#"9Replace this use of System.out or System.err by a logger.(®¸_
