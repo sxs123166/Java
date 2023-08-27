@@ -1,0 +1,10 @@
+
+--------Student---------
+name=黑马
+age=45
+sex=男
+height=185.3
+hobby=黑球，冰球，
+--------Teacher---------
+name=老师
+salary=999.9
